@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_text">16sp</dimen>
+    <dimen name="location_text">12sp</dimen>
+    <dimen name="time_text">12sp</dimen>
+    <dimen name="description_text">14sp</dimen>
+</resources>
